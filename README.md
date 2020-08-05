@@ -5,4 +5,5 @@ jak u need an additional file called ".env" with your TOKEN and PREFIX variable 
 it should look like this
 
 > TOKEN = "TOKEN HERE"
+>
 > PREFIX = "PREFIX HERE"
